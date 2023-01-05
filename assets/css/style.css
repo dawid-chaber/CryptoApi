@@ -1,0 +1,41 @@
+.main{
+    margin:0 auto;
+    border-radius: 10%;
+}
+
+.single-card{
+    width: 18rem;
+    margin: auto;
+}
+
+.single-card-img{
+    width: 75px;
+    margin: 10px auto;
+}
+
+.single-card-text{
+    margin: 5px;
+}
+
+.card-title{
+    font-weight: bold;
+    font-style: unset;
+}
+
+.price_up{
+    color: green;
+    font-weight: bold;
+}
+
+.price_down{
+    color:darkred;
+    font-weight: bold;
+}
+
+img{
+    width: 40px;
+    display: block;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto 
+}
